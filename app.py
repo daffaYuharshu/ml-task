@@ -4,8 +4,10 @@ from sklearn.preprocessing import LabelEncoder
 from sklearn.feature_extraction.text import CountVectorizer
 from keras.models import load_model
 import pandas as pd
+from flask_cors import CORS
 
 app = Flask(__name__)
+CORS(app)
 model = load_model("model_aiang1.h5")
 data = pd.read_csv('dataset_1.csv')
 df = pd.DataFrame(data)
@@ -37,9 +39,9 @@ def index():
 def prediction():
     if request.method == "POST":
         data = request.get_json(force=True)
-        nama_kegiatan = data[0]['nama_kegiatan']
-        kategori = data[0]['kategori']
-        prioritas = data[0]['prioritas']
+        nama_kegiatan = data['nama_kegiatan']
+        kategori = data['kategori']
+        prioritas = data['prioritas']
 
         # Fit label encoders with the necessary data
         data_for_fitting = pd.read_csv('dataset_1.csv')
@@ -78,5 +80,5 @@ def prediction():
             "data":None,
         }), 405
 if __name__ == "__main__":
-    app.run()
+    app.run(port=3000)
     

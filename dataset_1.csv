@@ -97,7 +97,7 @@ ikut organisasi,study,high
 main HP,fun,low
 main nitendo,fun,low
 push up,exercise,high
-merokok,fun,low
+scroll tiktok,fun,low
 belajar peta,study,high
 hangout,fun,low
 dance party,fun,low
@@ -154,47 +154,189 @@ memetik bunga,fun,low
 mendaki gunung,exercise,high
 ke kafe,fun,low
 membaca jurnal,study,high
-dugem,fun,low
+main ig,fun,low
 berjemur,fun,low
 lari pagi,exercise,high
 menikmati udara pagi,fun,low
 membaca artikel,study,high
 mobilan,fun,low
-analisa masalah,exercise,low
+analisa masalah,exercise,high
 menulis esai,study,high
-membuat video pembelajaran,study,low
+membuat video pembelajaran,study,high
 menggambar,exercise,high
-diskusi pelajaran,study,low
-mendengarkan audiobook,study,low
+diskusi pelajaran,study,high
+mendengarkan audiobook,study,high
 fotografi,exercise,high
-mengerjakan course,study,low
+mengerjakan course,study,high
 belajar dicoding,study,high
-silat,exercise,low
-belajar coursera,study,low
+silat,exercise,high
+belajar coursera,study,high
 belajar presentasi,study,high
-taekondwo,exercise,low
+taekondwo,exercise,high
 baca qur'an,study,high
-belajar cc,study,low
-membuat model,exercise,low
+belajar cc,study,high
+membuat model,exercise,high
 belajar md,study,high
-belajar ml,study,low
-karate,exercise,high
-voli,exercise,low
-belajar geografi,study,low
+belajar ml,study,high
+karate,exercise,medium
+voli,exercise,medium
+belajar geografi,study,high
 menari,exercise,high
-belajar software,study,low
+belajar software,study,high
 belajar python,study,high
-drama,exercise,low
-belajar bahasa r,study,low
+drama,exercise,high
+belajar bahasa r,study,high
 belajar deployment,study,high
-memanah,exercise,low
+memanah,exercise,high
 berkuda,exercise,high
-belajar astronomi,study,low
-menyetir,exercise,low
+belajar astronomi,study,high
+menyetir,exercise,high
 belajar instrumen,study,high
-belajar bahasa indonesia,study,low
+belajar bahasa indonesia,study,high
 mengetik,exercise,high
-ngomong,exercise,low
-belajar masak,study,low
+ngomong,exercise,high
+belajar masak,study,high
 musik,exercise,high
-belajar memimpin,study,low
+belajar memimpin,study,high
+jogging,exercise,medium
+lari pagi,exercise,medium
+bermain gitar,exercise,medium
+bermain saxsophone,exercise,medium
+tarveling,fun,medium
+ke luar negeri,fun,medium
+jalan jalan,fun,medium
+liburan,fun,medium
+mancing,fun,medium
+main ps,fun,medium
+main dengan teman,fun,medium
+nongkrong,fun,medium
+belajar IoT,study,medium
+belajar menggambar,study,medium
+melukis,exercise,medium
+mewarnai,exercise,medium
+journaling,exercise,medium
+meditasi,exercise,medium
+oprek laptop,study,medium
+bersepeda,exercise,medium
+rafting,exercise,medium
+snorkleing,exercise,medium
+Bangun,study,medium
+Sarapan,fun,medium
+Belajar pagi,study,medium
+Sesi olahraga,exercise,medium
+Istirahat makan siang,fun,medium
+Menghadiri kuliah,study,medium
+Joging sore,exercise,medium
+Makan malam bersama keluarga,fun,medium
+Membaca malam,study,medium
+Tidur,fun,medium
+Tinjau catatan kelas,study,medium
+Merenungkan,exercise,medium
+Mainkan alat musik,fun,medium
+Atur ruang kerja,study,medium
+Mengendarai sepeda,exercise,medium
+Tonton film dokumenter,fun,medium
+Rencanakan jadwal hari berikutnya,study,medium
+Sesi peregangan,exercise,medium
+Mainkan video game,fun,medium
+Mempersiapkan waktu tidur,study,medium
+Membaca buku,study,medium
+Memasak resep baru,study,medium
+Berlari atau jogging,exercise,medium
+Menulis cerita pendek,study,medium
+Bermain Instrumen musik,exercise,medium
+Lukisan atau gambar,exercise,medium
+Menonton film dokumenter,fun,medium
+Berkebun,fun,medium
+Melakukan yoga,exercise,medium
+Belajar bahasa baru,study,medium
+Memecahkan teka-teki,fun,medium
+Sukarela,fun,medium
+Menulis puisi,exercise,medium
+Bersepeda,fun,medium
+Mendengarkan podcast,fun,medium
+Membangun teka-teki,fun,medium
+Bermeditasi,exercise,medium
+Memainkan permainan papan,fun,medium
+Mengambil foto,fun,medium
+Mengunjungi museum,fun,medium
+Melakukan latihan di rumah,exercise,medium
+Menghadiri pertunjukan langsung,fun,medium
+Penangkapan ikan,fun,medium
+Mencoba restoran baru,fun,medium
+Membangun model,exercise,medium
+Memainkan permainan video,fun,medium
+Menatap bintang,fun,medium
+Perbaikan rumah DIY,exercise,medium
+Pergi mendaki,fun,medium
+kerajinan,exercise,medium
+Bermain olahraga,fun,medium
+Menghadiri lokakarya,study,medium
+Mengamati burung,fun,medium
+Belajar coding,study,medium
+Bermain catur,fun,medium
+Mengambil kelas dansa,fun,medium
+Melatih perhatian,exercise,medium
+Pergi ke acara komedi,fun,medium
+Menghadiri kuliah,study,medium
+Penangkapan ikan,fun,medium
+Memanggang kue,exercise,medium
+Geocaching,study,medium
+Menulis di jurnal,study,medium
+Berpartisipasi dalam klub buku,study,medium
+Melakukan tindakan kebaikan secara acak,fun,medium
+Seluncur es,fun,medium
+Berkemah,fun,medium
+Merajut atau merenda,fun,medium
+Bermain golf mini,exercise,medium
+Mencoba makanan baru,fun,medium
+Geocaching,study,medium
+Melakukan eksperimen sains,study,medium
+Menyelenggarakan malam permainan,fun,medium
+Mencoba kelas olahraga baru,study,medium
+Karaoke,fun,medium
+Melakukan perjalanan wisata yang indah,fun,medium
+Membuat lembar memo,fun,medium
+Bergabung dengan liga olahraga,exercise,medium
+Pergi ke pasar petani,fun,medium
+Melakukan teka-teki,fun,medium
+Menulis surat kepada seorang teman,fun,medium
+Mencoba hobi baru,fun,medium
+Menanam bunga,fun,medium
+Pergi ke klub komedi,fun,medium
+Sedang piknik,fun,medium
+Membuat es krim buatan sendiri,exercise,medium
+Menghadiri kelas kebugaran,study,medium
+Menjelajahi lingkungan baru,fun,medium
+Memainkan permainan kartu,fun,medium
+Mengambil kelas memasak,study,medium
+Pergi ke malam trivia,fun,medium
+Membangun istana pasir,fun,medium
+Mencoba resep koktail baru,exercise,medium
+Pergi ke taman hiburan,fun,medium
+Melakukan hari detoks digital,exercise,medium
+Berjalan-jalan dengan pemandangan indah,fun,medium
+Menghadiri pembacaan puisi,study,medium
+Bermain frisbee,fun,medium
+Pergi ke spa,fun,medium
+Melakukan teka-teki,fun,medium
+Mengikuti maraton film,fun,medium
+Mencoba media seni baru,fun,medium
+Membuat kapsul waktu,study,medium
+Mengerjakan teka-teki silang,exercise,medium
+Pergi ke pasar loak,fun,medium
+Mencoba ruang pelarian virtual,fun,medium
+Pergi ke acara komedi,fun,medium
+Membangun benteng,fun,medium
+Pergi ke kebun raya,fun,medium
+Mencoba permainan papan baru,fun,medium
+Membuat pizza buatan sendiri,exercise,medium
+Pergi naik balon udara,fun,medium
+Melakukan tur museum virtual,fun,medium
+Mencoba kedai kopi baru,fun,medium
+Pergi ke festival makanan,fun,medium
+Melakukan pemotretan di rumah,exercise,medium
+Mencoba resep makanan penutup baru,exercise,medium
+Pergi ke planetarium,study,medium
+Melakukan hari spa di rumah,exercise,medium
+Mencoba pengalaman realitas virtual,fun,medium
